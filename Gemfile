@@ -76,7 +76,7 @@ gem "refile", require: "refile/rails", github: 'manfe/refile'
 # 画像加工用（サイズ調整など）gem
 gem "refile-mini_magick"
 
-gem 'bootstrap-sass', '3.3.7'
+gem 'bootstrap-sass', '~> 3.3.6'
 gem 'bcrypt',         '3.1.11' #追加
 gem 'jquery-rails'
 gem 'faker'
